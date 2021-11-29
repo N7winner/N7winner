@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔎 I'm looking for a job
+- 🎮 I dream of making and sharing my passion towards them
+- 🤔 I'm currently learning the ways of the game design
+- 🏠 I adore pixel art and one day, I'll master it
+- 😡 I cannot get over the fact that the line above is shifted one pixel to the left 😡😡😡
+- 🌶️ I love pickled jalapeño
+- 💬 Contact me via [telegram](https://t.me/n7winner) or forbiddenskill@yandex.ru
 
 <!--
 **N7winner/N7winner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,6 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+- 🔎 I'm looking for a job
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
