@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 🔎 I'm looking for a job
-- 🎮 I dream of making and sharing my passion towards them
+- 🎮 I dream of making and sharing my passion with them
 - 🤔 I'm currently learning the ways of the game design
-- 🏠 I adore pixel art and one day, I'll master it
-- 😡 I cannot get over the fact that the line above is shifted one pixel to the left 😡😡😡
+- 🏠 I adore pixel art, and one day, I'll master it
+- 😡 I cannot get over the line above being shifted one pixel to the left 😡😡😡
 - 🌶️ I love pickled jalapeño
 - 💬 Contact me via [telegram](https://t.me/n7winner) or forbiddenskill@yandex.ru
 
