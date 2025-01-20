@@ -20,13 +20,13 @@
     <img src="https://img.shields.io/badge/-HeadHunter-E60027?&style=for-the-badge&logo=HH&logoColor=white" />
   </a>
 
-- 🔎 I'm looking for a job
-- 🎮 I dream of making games and sharing my passion with them
-- 🤔 I'm currently learning the ways of the game design
+- 🔎 I'm working as a game designer since 2022, but always looking for ways to improve and broaden my skills
+- 🎮 My dreams of making games and sharing my passion with them are coming true, although it takes work
+- 🤔 I'm currently learning the ways of the game design, and always will
 - 🏠 I adore pixel art, and one day, I'll master it
 - 😡 I cannot get over the line above being shifted one pixel to the left 😡😡😡
 - 🌶️ I love pickled jalapeño
-- 💬 Contact me via [telegram](https://t.me/n7winner) or forbiddenskill@yandex.ru
+- 💬 Contact me via [telegram](https://t.me/n7winner) or forbidenskill@gmail.com
 
 <!--
 **N7winner/N7winner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
