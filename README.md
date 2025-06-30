@@ -26,6 +26,7 @@
 - 🏠 I adore pixel art, and one day, I'll master it
 - 😡 I cannot get over the line above being shifted one pixel to the left 😡😡😡
 - 🌶️ I love pickled jalapeño
+- 🤖 I'm making several games in godot, including a bullet heaven, an overlay desktop idler, a carnival shooter and a chess spinoff
 - 💬 Contact me via [telegram](https://t.me/n7winner) or forbidenskill@gmail.com
 
 <!--
