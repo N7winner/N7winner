@@ -27,7 +27,7 @@
 - 😡 I cannot get over the line above being shifted one pixel to the left 😡😡😡
 - 🌶️ I love pickled jalapeño
 - 🤖 I'm making several games in godot, including a bullet heaven, an overlay desktop idler, a carnival shooter and a chess spinoff
-- 💬 Contact me via [telegram](https://t.me/n7winner) or forbidenskill@gmail.com
+- 💬 Contact me via [telegram](https://t.me/n7winner) or n7salvation@gmail.com
 
 <!--
 **N7winner/N7winner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
